@@ -1,0 +1,5 @@
+{
+  "name": "GLE Centro de Aplicaciones",
+  "description": "Un panel corporativo para centralizar y gestionar accesos a aplicaciones internas de GLE Colombia.",
+  "requestFramePermissions": []
+}
